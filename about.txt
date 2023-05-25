@@ -1,1 +1,1 @@
-about this page is nice.again changed
+about page is nice.updating as part rebase merge conflict demo in master
